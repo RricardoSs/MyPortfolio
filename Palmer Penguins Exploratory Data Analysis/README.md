@@ -18,15 +18,31 @@ Following the univariate analysis, a bivariate analysis was conducted to examine
 In concluding the exploratory analysis, a correlation matrix was employed to delve deeper into the relationships between multiple variables simultaneously. This approach allowed for the examination of how variables interacted with each other and provided insights into complex patterns or dependencies within the dataset.
 
 ## Findings
-This project aimed to conduct an explorative analysis of the physical characteristics across the sample of study penguins on the 3 Islands. Through this analysis, I gained valuable insights into the unique traits of each species within the penguin population.
+1. The Adélie species constitutes the majority of individuals. And the Chinstrap penguin species has the fewest number of samples.
+<img width="647" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/da8e6c80-22cd-4b65-acf9-8be9aa023197">
 
-Key observations include the common occurrence of Adélie species with presence in all islands, the relatively lower presence of Chinstrap penguins, and the notable concentration of penguins on Biscoe Island. Notably, Torgersen Island exclusively hosts Adélie penguins, while Biscoe Island is home to Gentoo penguins, and Chinstrap penguins inhabit Dream Island.
+2. Most pinguins are located on Biscoe island. And only 15% of the penguins are on the Torgersen island.
+<img width="669" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/5ebf736c-edb3-425b-bcec-0c0165c89cb4">
 
-Additionally, I observed similarities and differences in physical characteristics among species, with Gentoo penguins exhibiting larger flippers and culmens, albeit shallower culmens and heavier weights. Notably, female penguins generally have smaller features compared to males, regardless of species.
+3. The sample composition in terms of sex is similar across the various categories of islands and species
+<img width="273" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/d437dfb1-c679-46d5-a976-363210aaa23f">
+<img width="674" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/e06b3b33-8e3f-45d6-8a27-5819cbd5a8a3">
 
-Correlation analysis revealed significant associations between various physical features, with body mass strongly correlated with flipper length and culmen length positively correlated with both flipper length and body mass. Interestingly, culmen depth exhibited a negative correlation with flipper length. Furthermore, while the sex of the penguin showed slight correlation with physical features, it was not a significant determining factor.
+4. Adelie penguin species is present in all islands, about equally. Torgersen island contains only Adelie penguins. Biscoe island contains only Gentoo penguins. And Dream island contains only Chinstrap penguins.
+<img width="442" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/f418fdb0-f104-4ad5-ad4b-78c5320a31bb">
 
-Overall, this project sheds light on the intricate relationship between penguin species, their physical characteristics, and their habitat preferences, offering valuable insights.
+5. Adelie Penguins present smaller culmen and smaller flippers. Adelie and Chinstrap penguins are the penguins that weigth less. Gentoo penguins possess larger flippers and bigger culmens compared to some other species, although they have shallower culmens and are generally heavier. In average Chinstrap penguins present the bigger culmen of all
+Adelie and Chinstrap penguins are highly similiar, only diferenciating on culmen length
+<img width="556" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/15eb9fc3-9769-4a97-a1a3-065948b5e86a">
+<img width="534" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/01f7c7ff-dac3-4403-9790-912d52810dc5">
+
+
+6. Female penguins have smaller features when comparing to male penguins. This ignoring species conditioning
+<img width="533" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/77a0fd45-219c-4aa5-988d-1a9fc357369e">
+<img width="510" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/cec6ebeb-fc6e-4e6a-9088-d4689d725505">
+
+7. When analyzing correlation with features, we can see the body mass of a penguin is highly correlated with the flipper length of the same.Also the culmen length is positvely correlated with the flipper length and the body mass. On the other hand, culmen depth is negatively correlated with the flipper length of a penguin. The fact the penguin is male or not, is slightly correlated with the physical features, specially body mass
+<img width="389" alt="image" src="https://github.com/RricardoSs/MyPortfolio/assets/105722848/ec1f8e49-8ba8-46ed-a56d-3bb687ce3b01">
 
 # License
 Gorman KB, Williams TD, Fraser WR (2014) Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis). PLoS ONE 9(3): e90081. doi:10.1371/journal.pone.0090081
